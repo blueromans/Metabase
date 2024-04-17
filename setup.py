@@ -6,7 +6,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setuptools.setup(
     name='MetabaseRestClient',
-    version="0.0.2",
+    version="0.0.3",
     author="Yaşar Özyurt",
     author_email="blueromans@gmail.com",
     description='Metabase Api Client Python package',
