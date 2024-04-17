@@ -12,9 +12,9 @@ setuptools.setup(
     description='Metabase Api Client Python package',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/blueromans/metabase.git',
+    url='https://github.com/blueromans/Metabase-Python-Client.git',
     project_urls={
-        "Bug Tracker": "https://github.com/blueromans/metabase.git/issues",
+        "Bug Tracker": "https://github.com/blueromans/Metabase-Python-Client.git/issues",
     },
     install_requires=['requests', 'python-dotenv'],
     classifiers=[
